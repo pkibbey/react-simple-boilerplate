@@ -1,0 +1,14 @@
+@import 'reset-css/reset.css'
+
+body {
+  margin: 0;
+  background-color: #F4F3F0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+:local(.wrapper) {
+  padding: 10px;
+  border: 1px solid #E3E3E3;
+}
